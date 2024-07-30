@@ -40,8 +40,8 @@ To test communication between the server and the client, you can modify the clie
 
 ```bash
 WebSocket client connected
-```
 Received message from server: Hello, Server!
+```
 ### Additional Notes
 Ensure Ports Are Not Blocked: Make sure that port 8080 (or whichever port you are using) is not blocked by any firewall or used by another application.
 
